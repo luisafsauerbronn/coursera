@@ -1,10 +1,4 @@
-# Little Lemon - Back-end Developer Capstone Project
-
-<!-- 
-  This README provides a full overview of the Little Lemon backend project.
-  It includes installation instructions, API endpoints, authentication, and testing information.
--->
-
+# Little Lemon 
 ## Project Overview
 
 Little Lemon is a restaurant management API built using **Django** and **Django REST Framework (DRF)**.  
